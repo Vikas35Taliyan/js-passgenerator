@@ -1,6 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 # Live(Netlify)-
+[live](https://splendid-speculoos-bae3e3.netlify.app/)
 
 # JavaScript Pass-generator
 
